@@ -1,8 +1,10 @@
-🚀Linux-Interview-Questions
+## 🚀Linux-Interview-Questions
 
-1. How can you run a shell script in the background in Linux?
+#1. How can you run a shell script in the background in Linux?
+
 Solution:
      To run a shell script in the background in Linux, you can use the following methods:
+
      1. Appending an Ampersand (&)
         
       - Run the script with & at the end of the command to run it in the background.
