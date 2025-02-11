@@ -9,16 +9,16 @@ Solution:
         
       - Run the script with & at the end of the command to run it in the background.
 
-       ./script.sh &
+      ` ./script.sh &`
         
      2. Using nohup
         
       - The nohup command allows the script to keep running even if the terminal is closed.
 
 
-       nohup ./script.sh &
+       `nohup ./script.sh &`
 
  Verifying the Script is Running
         
-       jobs
+       `jobs`
 
